@@ -1,4 +1,4 @@
-# Hi there, I'm Kevin Miracle Satoko - aka [Kevin Satoko](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi, I'm Kevin Miracle Satoko - aka [Kevin Satoko](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
 - 🔭 I’m currently working at [Huawei](https://www.huawei.com/en/?ic_medium=direct&ic_source=surlent)
 - 🌱 I’m currently learning Python and Javascript
