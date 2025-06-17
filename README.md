@@ -4,7 +4,7 @@ I am a fresh graduate from Informatics study program at Immanuel Christian Unive
 
 ## Education:
 
-#### 1. [Universitas Kristen Immanuel](https://www.ukrim.ac.id) | Technical Information | Yogyakarta `2019-2023`
+#### 1. [Universitas Kristen Immanuel](https://www.ukrim.ac.id) | Technical Information | Yogyakarta `2019-2025`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
@@ -26,8 +26,8 @@ I am a fresh graduate from Informatics study program at Immanuel Christian Unive
 ---
 ### Connect with me:
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Kevin Miracle Satoko/-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Kevin Miracle Satoko/-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Kevin-Miracle-Satoko/-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Kevin-Miracle-Satoko/-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/kevinn_miracle/-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/kevinn_miracle/-dark-mode-only)
