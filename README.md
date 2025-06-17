@@ -25,9 +25,6 @@ I am a fresh graduate from Informatics study program at Immanuel Christian Unive
 
 ---
 ### Connect with me:
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/Kevin Satoko)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/Kevin Satoko)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Kevin Miracle Satoko/-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Kevin Miracle Satoko/-dark-mode-only)
