@@ -26,14 +26,11 @@ I am a fresh graduate from Informatics study program at Immanuel Christian Unive
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCtNSgOJTInsz_VxZNfvW2Dg-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCtNSgOJTInsz_VxZNfvW2Dg-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/Kevin Satoko)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/Kevin Satoko)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/KevinSatoko-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/KevinSatoko-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kevin-satoko-901107207/-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kevin-satoko-901107207/-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/Kevin Miracle Satoko/-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/Kevin Miracle Satoko/-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/kevinn_miracle/-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/kevinn_miracle/-dark-mode-only)
