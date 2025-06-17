@@ -31,9 +31,6 @@ I am a fresh graduate from Informatics study program at Immanuel Christian Unive
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/kevinn_miracle/-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/kevinn_miracle/-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/email-light.svg)](https://www.email.com/miraclekevin54@gmail.com /-light-mode-only)
-[![website](./img/email-dark.svg)](https://www.email.com/miraclekevin54@gmail.com /-dark-mode-only)
 
 
 
