@@ -1,11 +1,6 @@
-# Hi, I'm [Kevin Miracle Satoko](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi, I'm [Kevin Miracle Satoko]👋
 ## About me:
-- 🔭 I’m currently working at [Pt.Bursa Efek Indonesia](https://www.idx.co.id/)
-- 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
-- 💬 Ask me about anything
-- 📫 How to reach me: miraclekevin54@gmail.com
+I am a fresh graduate from Informatics study program at Immanuel Christian University Yogyakarta. I am a disciplined person, like to learn new things and plan. I always design and complete targets in every project that I am responsible for, I also have a strong work ethic, teamwork skills, reliable, honest, responsible, and good communication skills.
 
 ## Education:
 
@@ -40,8 +35,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kevin-satoko-901107207/-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kevin-satoko-901107207/-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/kvn.miracle/-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/kvn.miracle/-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/kevinn_miracle/-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/kevinn_miracle/-dark-mode-only)
 
 
 
